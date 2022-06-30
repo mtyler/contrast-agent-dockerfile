@@ -1,11 +1,10 @@
-# Java - Init Container Deployment
+# Contrast Agent Dockerfile
 
-# Introduction
-This is a practical implementations of building the Init Container for deploying the Contrast Java Agent.
+This is a practical implementation for inserting the Contrast Java Agent into a container.
 
 # Implementation
 
-based on this example by Jon Harper: https://github.com/jharper-sec/contrast-kubernetes-deployment
+based on this example by Jon Harper: <https://github.com/jharper-sec/contrast-kubernetes-deployment>
 
 # TODO
 
